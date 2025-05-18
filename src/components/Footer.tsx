@@ -9,7 +9,7 @@ const Footer = () => {
           {/* Company Info */}
           <div>
             <img 
-              src="/lovable-uploads/81f76d23-2f03-4e65-8d8b-c71d3237bfe2.png" 
+              src="/lovable-uploads/60408a30-79b2-4b43-9b8f-36185e323eff.png" 
               alt="Bharat2World Logo" 
               className="h-20 mb-4" 
             />
