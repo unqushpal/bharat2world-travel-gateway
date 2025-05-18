@@ -1,5 +1,5 @@
 
-import { Passport, Briefcase, CreditCard, ClipboardCheck } from "lucide-react";
+import { Globe, Briefcase, CreditCard, ClipboardCheck } from "lucide-react";
 import { Button } from "@/components/ui/button";
 
 const ServiceCard = ({ 
@@ -35,7 +35,7 @@ const Services = () => {
     {
       title: "Visa Services",
       description: "Expert assistance for all types of visas with high success rates and minimal documentation.",
-      icon: Passport,
+      icon: Globe,
       link: "/visa-services"
     },
     {
